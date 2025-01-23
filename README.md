@@ -1,6 +1,7 @@
 # CS-Student-Survey
 -**Using Static & Dynamic Memory**-
-
+* Note: worked with the dynamic memory, but I do not have the full copy of the dynamic memory assignment
+  
 ## Overview
 
 The Department of Computer Science (CSC) at the University of Victoria is conducting a pilot study to understand students’ attitudes towards Computer Science. To assist with this, SENG 265 students were tasked with developing a software system to manage and analyze survey data.
