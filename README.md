@@ -1,6 +1,6 @@
 # CS-Student-Survey
 -**Using Static & Dynamic Memory**-
-* Note: worked with the dynamic memory, but I do not have the full copy of the dynamic memory assignment
+* Note: worked with the dynamic memory, but the assingment has bugs holding it back from fully running (a segemantation fault error)
   
 ## Overview
 
